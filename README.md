@@ -9,6 +9,14 @@ This project was built to solve a practical problem: manually checking large spo
 
 ![Dashboard](./screenshots/dashboard.jpg)
 
+## Screenshots
+
+### AI Match Review
+![AI Match Review](./screenshots/ai-review.png)
+
+### Analysis Results
+![Analysis Results](./screenshots/analysis-results.png)
+
 ## Why I built this
 
 As an international job seeker, I needed a faster way to focus on companies that are more likely to support work permit sponsorship. Career services and public records can provide very large sponsor lists, but manually checking thousands of company names against incoming job alerts is inefficient.
