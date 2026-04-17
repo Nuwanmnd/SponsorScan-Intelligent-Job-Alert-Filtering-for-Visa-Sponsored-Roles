@@ -337,7 +337,7 @@ const App = () => {
                 disabled={tailoringLoading || !analysis}
               >
                 <FileText size={18} />
-                {tailoringLoading ? 'Tailoring...' : 'Tailor CV + Cover Letter'}
+                {tailoringLoading ? 'Tailoring...' : 'AI Application support'}
               </button>
             </div>
 
