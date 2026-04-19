@@ -1,5 +1,5 @@
 # SponsorScan
-**Intelligent job alert filtering for visa-sponsored roles**
+**Intelligent Job Alert Filtering for Roles with Dutch Visa Sponsorship**
 
 SponsorScan is a full-stack application that helps international job seekers identify relevant job opportunities more efficiently. It processes Gmail job alerts, matches companies against a recognized sponsor list, filters out less relevant roles such as internships and thesis positions, stores results in SQLite, and provides AI-assisted job analysis and application-material suggestions.
 
